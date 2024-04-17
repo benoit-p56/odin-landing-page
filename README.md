@@ -1,0 +1,1 @@
+A basic landing page made with basic HTML and CSS
