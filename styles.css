@@ -57,7 +57,7 @@ body {
 }
 
 .content2 {
-    padding: 20px 100px;
+    padding: 20px 100px 70px;
     text-align: center;
 }
 
@@ -66,9 +66,9 @@ body {
 }
 
 .content2 .images {
-    margin-top: 25px;
+    margin-top: 60px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .content2 img {
@@ -78,4 +78,26 @@ body {
 
 .image {
     width: 200px;
+}
+
+.content3 {
+    display: flex;
+    flex-direction: column;
+    padding: 50px 100px;
+    background-color: #E5E7EB;
+    text-align: center;
+    font-style: italic;
+    font-size: 36px;
+    font-weight: lighter;
+    color: #1F2937;
+}
+
+.content3 p {
+    margin-bottom: 0;
+}
+
+.content3 .quotee {
+    align-self: flex-end;
+    font-style: normal;
+    font-weight: bold;
 }
