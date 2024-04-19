@@ -55,3 +55,27 @@ body {
     background-color: #1F2937;
     color: #F9FAF8;
 }
+
+.content2 {
+    padding: 20px 100px;
+    text-align: center;
+}
+
+.content2 span {
+    font-size: 36px;
+}
+
+.content2 .images {
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.content2 img {
+    border: 5px solid #3882F6;
+    border-radius: 8px;
+}
+
+.image {
+    width: 200px;
+}
