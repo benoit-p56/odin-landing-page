@@ -17,7 +17,7 @@ body {
 }
 
 .header {
-    background-color: #1F2937;
+    background-color: #86796c;
     font-size: 24px;
     font-weight: 900;
     color: #F9FAF8;
@@ -39,7 +39,7 @@ body {
 .content1 button {
     border-radius: 8px;
     padding: 8px 32px;
-    background-color: #3882F6;
+    background-color: #c10c0c;
     color: #F9FAF8;
     font-weight: bold;
 }
@@ -52,7 +52,7 @@ body {
     padding: 50px 100px 100px;
     display: flex;
     justify-content: space-between;
-    background-color: #1F2937;
+    background-color: #86796c;
     color: #F9FAF8;
 }
 
@@ -72,7 +72,7 @@ body {
 }
 
 .content2 img {
-    border: 5px solid #3882F6;
+    border: 5px solid #c10c0c;
     border-radius: 8px;
 }
 
@@ -118,7 +118,7 @@ body {
     justify-content: center;
     gap: 250px;
     align-items: center;
-    background-color: #3882F6;
+    background-color: #c10c0c;
     border-radius: 12px;
     padding: 50px 100px;
 }
@@ -136,7 +136,7 @@ body {
 
 .content4 button {
     padding: 10px 45px;
-    background-color: #3882F6;
+    background-color: #c10c0c;
     border: 3px solid #F9FAF8;
     border-radius: 12px;
     color: #F9FAF8;
@@ -144,7 +144,7 @@ body {
 }
 
 .footer {
-    background-color: #1F2937;
+    background-color: #86796c;
     text-align: center;
     padding: 35px 0px;
     color: #F9FAF8;
